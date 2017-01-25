@@ -1,0 +1,16 @@
+<resources>
+    <strings>
+      <string id="AppName">DrawLineAA</string>
+    </strings>
+
+    <drawables>
+      <bitmap id="LauncherIcon" filename="bitmaps/launcher_icon.png" />
+    </drawables>
+
+    <fonts>
+    </fonts>
+
+    <bitmaps>
+    </bitmaps>
+
+</resources>
